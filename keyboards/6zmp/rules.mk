@@ -1,0 +1,2 @@
+BCAT_OLED_PET = luna
+ENCODER_MAP_ENABLE = yes
