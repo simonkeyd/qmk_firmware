@@ -1,11 +1,11 @@
 {
-    "keyboard_name": "DZ60",
+    "keyboard_name": "simonkeyDZ60",
     "manufacturer": "KBDFans",
-    "url": "",
+    "url": "https://github.com/simonkeyd/qmk_firmware/tree/master/keyboards/dz60",
     "maintainer": "qmk",
     "usb": {
         "vid": "0x445A",
-        "pid": "0x2260",
+        "pid": "0x1337",
         "device_version": "0.0.1"
     },
     "matrix_pins": {
